@@ -1,0 +1,11 @@
+framework module QRLibrary {
+  umbrella header "QRLibrary.h"
+
+  export *
+  module * { export * }
+}
+
+module QRLibrary.Swift {
+    header "QRLibrary-Swift.h"
+    requires objc
+}
