@@ -16,6 +16,6 @@ let package = Package(
         // .package(url: /* package url */, from: "1.0.0"),
     ],
     targets: [
-        .binaryTarget(name: "QRLibrary", url: "https://github.com/sungkim23/QRLibraryRemote", checksum: "129f2a8d9c5a13a000b3935d3fab93e2f597675ed409d8276f8184344ec10253")
+        .binaryTarget(name: "QRLibrary", url: "https://github.com/sungkim23/PluginTest/blob/main/QRLibrary.xcframework.zip", checksum: "ea38feff6867a7204468b762ebc6ff3a0358829e9d68558cfa705f3c313e577e")
     ]
 )
