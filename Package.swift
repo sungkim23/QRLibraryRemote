@@ -17,7 +17,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "QRLibrary",
-                      url: "https://github.com/sungkim23/vigilant-happiness/blob/main/QRLibrary.xcframework.zip",
+                      url: "https://bitbucket.org/sungkim23/plugin/downloads/QRLibrary.xcframework.zip",
                       checksum: "697723bf3ca3a8619924babf32b19d529de75bf8aaae708847ade4a3cd5d4713")
     ]
 )
